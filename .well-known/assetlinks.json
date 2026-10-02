@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.barbelldiva.app",
+      "sha256_cert_fingerprints": [
+        "E8:6C:A7:1A:C3:D3:83:43:A7:4A:D0:0D:6D:FB:62:88:0B:67:F5:A0:31:69:79:33:08:B1:76:48:23:13:EE:56"
+      ]
+    }
+  }
+]
